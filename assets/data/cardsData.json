@@ -1,0 +1,94 @@
+{
+    "myCards": [
+        {
+            "id": 0,
+            "image": "assets/imgs/ant_man.png",
+            "title": "Ant-Man and The Wasp: Quantummania",
+            "text": "Filme 'solo' do Homem-Formiga chega ao Disney+ nesta quarta-feira. Diferente de outros títulos, sua chegada tardia na plataforma de streaming reflete o desempenho nas bilheterias abaixo das expectivas.",
+            "date": "17/05/2023",
+            "video": "",
+            "description": "Após lançar simultaneamente no cinema e no Disney+ (também em virtude da pandemia de COVID19), a Marvel foi aos poucos aumentando de 15, para 45, depois 70 e agora 90 dias para liberar seu último lançamento das bilheterias à sua plataforma de streaming. Isto deve-se ao recente desempenho dos filmes da fase IV que, embora consolidado, o MCU trouxe novos hérois para as telas, pouco conhecidos, na expectativa de receber o mesmo retorno de sempre dos fãs que ainda sentem a perda do Homem de Ferro.\n Mas e o filme?\n Primeiro filme da fase V, Homem-Formiga retorna para enfrentar um dos maiores vilões dos quadrinhos: Kang o Conquistador! Junto de sua filha e a família Pym, Scott Lang se encontra de volta ao reino Quântico, bem diferente do que conhecia. Repleto de novos perigos, um velho conhecido e muita aventura, ele precisa encontrar um jeito de voltar para sua realidade sem deixar Kang escapar."
+        },
+        {
+            "id": 1,
+            "image": "assets/imgs/gotg.png",
+            "title": "Farewell Guardians of the Galaxy.",
+            "text": "A despedida do diretor James Gunn do universo Marvel está sendo para muitos fãs sua melhor obra dentro do MCU.",
+            "date": "04/05/2023",
+            "video": "",
+            "description": "Star-Lord e os guardiões estreiam nos cinemas para sua despedida do universo Marvel, deixando muitas risadas, muita música boa e muita emoção. A maioria dos críticos que já puderam assistir ao filme o considerou tão bom quanto o primeiro, quiçá melhor! Nesta nova aventura, enquanto Peter Quill busca por Gamora(2012) para tentar 'reconquistá-la', Rocket reencontrará seu 'criador'. \n E muito mais..."
+        },
+        {
+            "id": 2,
+            "image": "assets/imgs/marvels.png",
+            "title": "The Marvels",
+            "text": "Marvel lança 'teaser' trailer de The Marvels e cria grande expectativa entre os fãs. Estreia prevista para 23 de novembro.",
+            "date": "11/04/2023",
+            "video": "",
+            "description": "Com lançamento previsto para novembro de 2023, 'The Marvels' celebra o retorno de Brie Larson como Carol Danvers as telas dos cinemas depois do maciço sucesso de seu primeiro filme solo. Mas desta vez, ela contará com companhia de Mônica Rambeau (Teyonah Parris) e Kamala Khan (Iman Vellani) como protagonistas. Duas personages surgiram na fase 4 em séries do Disney+ (WandaVision e Kamala Khan respectivamente). Após a descoberta de um misterioso campo de energia no espaço, as três começam a trocar de lugar cada vez que utilizam seus poderes, porém ainda sem entender o que de fato está havendo."
+        },
+        {
+            "id": 3,
+            "image": "assets/imgs/secret_invasion.png",
+            "title": "Secret Invasion On Disney+",
+            "text": "Suspense, segredos, mentiras e espionagem: Primeira serie com essa temática chega ao Disney+ em Junho deste ano.",
+            "date": "04/04/2023",
+            "video": "",
+            "description": "Você é um Skrull?\n Talvez a série mais aguardada até hoje, Invasão Secreta chega no streaming no dia 21 de junho para alegria dos fãs. Assim como em Soldado Invernal (considerado pelos fãs como um dos melhores filmes da Marvel) a série traz o submundo da espionagem como principal elemento da trama, bem diferente do que vimos até agora. Durante muitos anos os Skrulls viveram infiltrados e disfarçados, desde sua primeira aparição em 'Capitã Marvel'. Enquanto Talos e seus aliados buscam apenas viver pacificamente depois de perder seu lar na guerra contra os Kree, muitos skrulls tem inteções mais ardilosas e vêem como alternativa a geração de conflito entre as nações aqui na Terra. E caberá ao maior espião de todos o universo Marvel, Nicholas J. Fury a descobrir quem está realmente por trás de tudo e suas reais motivações. Ainda que sem o auxílio de nenhum super-herói, Fury contará com sua aliada de sempre, a agente Hill e de do agente Ross (Pantera Negra e Guerra Civil). "
+        },
+        {
+            "id": 4,
+            "image": "assets/imgs/iron_man.png",
+            "title": "I'm am Iron Man",
+            "text": "Lançado em 2008 e estrelado por Robert Downey Jr., o filme surpreendeu de forma inesperada e positiva à crítica, dando início ao que seria a nova dinastia de filmes de super-heróis na história do cinema mundial.",
+            "date": "30/04/2008",
+            "video": "",
+            "description": "Pegue um super-heroi pouco aclamado nos quadrinhos, junte a um ator em total declínio e você terá um fracasso de bilheteria! Isso pode ser realidade em vários 'Multiversos', mas não na Terra-616 (nome dado ao nosso universo nos quadrinhos). Aqui, tudo é possível! \n Não só é, deixou isso bem claro após o lançamento de Homem de Ferro nos cinemas. Tanto o diretor Jon Favreau, quanto Kevin Feige já vieram à público para dizer que tinham expectativas baixíssimas para o filme. Só que o sucesso foi tão massivo, que gerou uma reviravolta incrível nos próximos lançamentos, deixando de ser em estúdios terceirizados como Paramount, para serem produzidos pela 'Marvel Studios', culminando em sua aquisição por parte da 'Disney Studios'. Agora convenhamos, um playboy, billionário, gênio, que constrói sua propria armadura, voa e ainda tem sua própria versão do 'chatGPT'. Como esperar algo diferente do sucesso?\n Robert Downey Jr. e Tony Stark são um casamento perfeito, dando ao ator cifras millionárias nos filmes seguintes, além de um status singular dentro do MCU (um dos poucos a ter acesso ao roteiro completo da saga do Infinito poor exemplo), além de um fandom gigantesco. "
+        },
+        {
+            "id": 5,
+            "image": "assets/imgs/thor.png",
+            "title": "Mijolnir and the Strongest Avenger!",
+            "text": "Whomsoever holds this hammer, If he be worthy, should possess the power of Thor - Àquele que segurar este martelo, se fores digno, possuirá os poderes de Thor!",
+            "date": "29/04/2011",
+            "video": "",
+            "description": "Essafrase dita por Odin no primeiro filme da franquia é vinda dos quadrinhos. Mas o que de fato significa ser digno? Direto da mitologia Nórdica, Thor foi o primeiro super-herói do universo Marvel a dizer que mágica e ciencia são a mesma coisa! Vindo de Asgard, o Deus do trovão mostrou-se arruaceiro, rebelde e inapto para governar o maior de todos os 9 reinos! E para provar que ele é realmente aquilo que se esperam dele, seu pai Odin pôe à prova sua dignidade, banindo-o para terra e fazendo com que ele lute para ser novamente digno de empunhar o martelo Mjolnir ('Miounír'). Fato curioso sobre o Mjolnir é que até mesmo nos quadrinhos, foram poucos os personagens com essa honaria de erguer o martelo. Dentre estes, 2 são conhecidos nos filmes: Jane Foster ('Thor Love & Thunder') e Steve Rogers ('Avengers: Endgame'). já nos quadrinhos, além de algumas versões de Thor de outros universos e Loki, 2 personages do Universo DC foram capazes de levantar o martelo mitológico: Super Homem e Mulher Maravilha. Só isso já diz muito sobre quem pode ou não erguer Mjolnir. Não acha?"
+        },
+        {
+            "id": 6,
+            "image": "assets/imgs/captain_america.png",
+            "title": "The First Avenger!",
+            "text": "Capitão América é sem sombra de dúvidas o super herói mais correto a povoar as telas dos cinemas. Mas isso é somente parte do que ele representa.",
+            "date": "29/07/2011",
+            "video": "",
+            "description": "O soldado fora do seu tempo e sem uma guerra. "
+        },
+        {
+            "id": 7,
+            "image": "assets/imgs/the_hulk.png",
+            "title": "That's my secret, Cap: I'm Always Angry",
+            "text": "'Dr. Banner, agora é uma boa hora para ficar com raiva'. Estreiando no papel de Bruce Banner, Mark Ruffalo pode ter sido responsável pela frase mais icônica de todo o universo Marvel.",
+            "date": "27/04/2012",
+            "video": "",
+            "description": "No momento clímax do primeiro 'Vingadores', e em meio à luta contra os 'Chitauri', que ficaria conhecida como a batalha de Nova Iorque, os seis Vingadores se reúnem e percebem ali que para derrotar Loki precisariam se unir e agir como equipe. E foi então que o Capitão América pede para que O Dr. Banner se transforme no incrível Hulk, o enorme mostro verde enfurecido que destrói tudo ao seu redor. Só que para surpresa da maioria, Banner conta que o segredo para controlar sua raiva é permanecendo com raiva o tempo todo! Não é incrível?! A frase não só corou sua estreia, como também deixou claro que estava ali para ficar. Precisando atuar apenas como Banner, Ruffalo conseguiu conciliar o jeito atrapalhado com sua mente brilhante em atuações seguras durante esses mais de 10 anos no MCU."
+        },
+        {
+            "id": 8,
+            "image": "assets/imgs/pantera.png",
+            "title": "Wakanda Forever",
+            "text": "A despedida prematura de um talento incrível dessa nova geração de Hollywood que ainda tinha muito a nos entregar. Ainda assim, Chadwick Boseman deixou sua marca na história do MCU.",
+            "date": "15/02/2018",
+            "video": "",
+            "description": "Liderado e dirigido por um elenco majoritariamente negro, Pantera Negra trouxe para as telonas uma incrível aventura de ficção que contagiou a todos com sua história e a mais do que isso, apresentou uma cultura rica e diversificada dentro de sua individualidade. Vivendo num País altamente evoluído e moderno por conta do 'Vibranium' (mineral fictício raro, porém encontrado em abundância no solo da região) O príncipe T'Challa tem a árdua missão de viver o luto pela morte de seu 'Baba', o rei T'Chaka (morto por Zemo no filme 'Guerra Civil') e lidar com a nova realidade de assumir o trono de Wakanda! Ainda que 'Killmonger', vilão do filme e interpretado por Michael B. Jordan roube a cena nas telas, Chadwick precisava derrotar não apenas ele, mas algo que eventualmente daria um fim a sua vida, um câncer. Com sua simpatia e solidariedade foi capaz de encantar dentro e fora dos sets de filmagem."
+        },
+        {
+            "id": 9,
+            "image": "assets/imgs/avengers_endgame.png",
+            "title": "Avengers: Assemble!",
+            "text": "Quatro times e uma missão: Recuperar as jóias do infinito e salvar o universo. Custe o que custar! Avengers: Endgame precisou estreiar nos cinemas duas vezes para ser a maior bilheteria do cinema. Conseguiu.",
+            "date": "25/04/2019",
+            "video": "",
+            "description": "Coroando uma saga dividida em 3 fases, com mais de 20 filmes interligados, 'Avengers: Endgame' traz um elenco recheado de atores incríveis e super-heróis mais incríveis ainda; Todos unidos com uma só missão: Reverter o que fora feito por 'Thanos' 5 anos antes. Para isso eles precisam voltar no tempo por um portal quântico em datas específicas da história do universo Marvel para 'pegar emprestadas' as jóias do infinito'. Durante a missão uma baixa considerável acontece quando a 'Viúva Negra' não volta de 'Vormir' com o 'Hawkeye'. Os Vingadores sofrem com a perda da inestimável amiga, ainda sem saber que para derrotar o 'Titan Louco', sofreriam uma baixa ainda mais marcante; Tanto para eles, quanto para nós telespectadores. A morte de Tony Stark deixou um buraco no MCU que provavelmente jamais será preenchido por nenhum outro herói."
+        }
+    ]
+}
